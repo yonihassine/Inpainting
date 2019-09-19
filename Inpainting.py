@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # TP6 : Inpainting
+# # Inpainting
 
 # In[2]:
 
